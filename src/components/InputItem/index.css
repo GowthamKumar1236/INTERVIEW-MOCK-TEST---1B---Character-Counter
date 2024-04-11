@@ -1,0 +1,10 @@
+.list-items {
+  list-style-type: none;
+}
+
+.text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  color: #0f172a;
+}
